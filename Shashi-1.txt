@@ -2,4 +2,9 @@ abcde
 fgedf
 ghalkshfkl
 wqfqw
+<<<<<<< HEAD
 dghahhs
+=======
+ryreqreah
+ewrqe
+>>>>>>> feature/git-merge-commits
